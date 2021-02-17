@@ -8,6 +8,6 @@ public class AudioBehaviour : MonoBehaviour
 
     public void PlayYay()
     {
-        yay.Play();
+        yay.Play(); //plays audio
     }
 }
